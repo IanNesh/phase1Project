@@ -1,0 +1,24 @@
+{
+  "name": "phase1project",
+  "version": "1.0.0",
+  "description": "phase1finaProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanNesh/phase1Project.git"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "css"
+  ],
+  "author": "Ian Muene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanNesh/phase1Project/issues"
+  },
+  "homepage": "https://github.com/IanNesh/phase1Project#readme"
+}
