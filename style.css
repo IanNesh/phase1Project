@@ -25,3 +25,15 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+button {
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 45px;
+    width: 45px;
+    outline: none;
+    background: #7c7c7c2b;
+    color: whitesmoke;
+    cursor: pointer;
+}
