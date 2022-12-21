@@ -19,8 +19,11 @@ In order to use this particular project one needs to have;
  -linux
   -Mac OS
 
+## Installments
+Open a terminal on your computer and clone the repository
+    git@github.com:IanNesh/phase1Project.git
 
-  ## Author
+## Author
   This project was developed by:
     
     Ian Munene
